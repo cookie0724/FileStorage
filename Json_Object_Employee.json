@@ -1,4 +1,4 @@
-[
+{
     { 
     "firstname": "Kevin", 
     "height": 180, 
@@ -33,4 +33,4 @@
         "Nissan GT-R", 
         "Audi"] 
 }
-]
+}
